@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificación de Datos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .content {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            Verificación de Datos
+        </div>
+        <div class="content">
+            <p>Verifique que los siguientes datos se correspondan con el documento presentado:</p>
+            <p><strong>Paciente:</strong> RAFAEL ANTONIO DIAZ AYALA</p>
+            <p><strong>Creado:</strong> 09/09/2024 - 12:08 hs.</p>
+        </div>
+    </div>
+</body>
+</html>
